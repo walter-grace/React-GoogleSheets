@@ -31,7 +31,8 @@ function App() {
 			<Header as="h2">Alg0r1t1m l0v3</Header>
 			<Container>
 				<h4>
-					We believe in coessential data sharing 
+				This data helps us get a baseline 🎧
+				just click submit once!
 				</h4>
 			</Container>
 			<Form className="form">
